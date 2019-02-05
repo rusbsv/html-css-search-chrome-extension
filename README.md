@@ -1,2 +1,4 @@
 # html-css-search-chrome-extension
-Расширение для Chrome, поиск справки по выделенному тегу через контекстное меню
+Расширение для Chrome, вывод справки по использованию выделенного тега:
+
+![screenshot](https://raw.githubusercontent.com/rusbsv/html-css-search-chrome-extension/master/primer.png)
